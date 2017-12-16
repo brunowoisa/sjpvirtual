@@ -227,7 +227,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<nav>
 				<a href="#"><div class="item_menu">Advocacia</div></a>
 				<a href="#"><div class="item_menu">Agências de turismo</div></a>
-				<a href="#"><div class="item_menu">limentação</div></a>
+				<a href="#"><div class="item_menu">Alimentação</div></a>
 				<a href="#"><div class="item_menu">Açougues</div></a>
 				<a href="#"><div class="item_menu">Bebidas</div></a>
 				<a href="#"><div class="item_menu">Chocolates</div></a>
@@ -242,7 +242,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<a href="#"><div class="item_menu">Produtos Coloniais</div></a>
 				<a href="#"><div class="item_menu">Sorveterias / Açaiterias</div></a>
 				<a href="#"><div class="item_menu">Supermercados</div></a>
-				<a href="#"><div class="item_menu">nimais</div></a>
+				<a href="#"><div class="item_menu">Animais</div></a>
 				<a href="#"><div class="item_menu">Adestramento</div></a>
 				<a href="#"><div class="item_menu">Agropecuárias</div></a>
 				<a href="#"><div class="item_menu">Hotel para pets</div></a>
