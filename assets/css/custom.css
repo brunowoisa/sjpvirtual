@@ -275,14 +275,28 @@
   padding: 0;
 }
 
-.li
+.titulo_item_menu
+{
+  width: 100%;
+  background-color: #0099ff;
+  color: #fdfdfd;
+  font-size: 12px;
+  padding-left: 4px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.item_menu
 {
   width: 100%;
   background-color: #3d566e;
   border-left: 3px solid #0099ff;
+  border-bottom: 1px solid #3c566f;
 }
 
-#menu_guia_comercial nav a .li
+#menu_guia_comercial nav a .item_menu
 {
   color: #0099ff;
   font-size: 12px;
@@ -299,7 +313,7 @@
   text-decoration: none;
 }
 
-#menu_guia_comercial nav a:hover .li
+#menu_guia_comercial nav a:hover .item_menu
 {
   color: #fdfdfd;
   border-left: 3px solid #dedede;
