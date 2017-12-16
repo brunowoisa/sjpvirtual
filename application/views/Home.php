@@ -108,6 +108,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 	</nav>
 
+	<!-- Destaques -->
 	<section id="home_destaques">
 		<div class="row">
 			<div class="col-md-6">
@@ -213,12 +214,33 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</div>
 					</div>
 				</a>
-				
-
-
 			</div>
 		</div>
 	</section>
+
+	<!-- Container -->
+	<div id="container">
+		
+		<!-- Menu Lateral -->
+		<div class="col-md-2" id="menu_guia_comercial">
+			<nav>
+				<a href="#"><div class="li">Advocacia</div></a>
+				<a href="#"><div class="li">Agências de Turismo</div></a>
+				<a href="#"><div class="li">Cestas de Café da Manhã</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+				<a href="#"><div class="li">Item 1</div></a>
+			</nav>
+		</div>
+
+	</div>
+	
+
+
+
 
 
 	<!-- JQuery -->
